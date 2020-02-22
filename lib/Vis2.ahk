@@ -1764,7 +1764,7 @@ class Vis2 {
          }
 
          colorMap(){
-            color := [] ; 73 LINES MAX
+            color := {} ; 73 LINES MAX
             color["Clear"] := color["Off"] := color["None"] := color["Transparent"] := "0x00000000"
 
                color["AliceBlue"]             := "0xFFF0F8FF"
